@@ -192,7 +192,6 @@ sns.boxplot(x="height",data=df5)
 ![image](https://github.com/swethasurendar/Ex02-Outlier/assets/133625914/dfbf6601-c00e-401b-a43b-e14a49637be3)
 # Height - Without Outliers using IQR method
 ![image](https://github.com/swethasurendar/Ex02-Outlier/assets/133625914/f3636bc3-4593-4ac1-8a41-ae9bd0a3f853)
-# ![image](https://github.com/swethasurendar/Ex02-Outlier/assets/133625914/13462984-78bd-4dd5-9c13-da97e19c45b2)
 
 # RESULT
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods. And print them
